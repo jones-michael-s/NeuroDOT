@@ -19,7 +19,7 @@ addpath(genpath('[INSTALL DRIVE AND PATH]\NeuroDOT\'))
 2. Dependencies
 
 To use NeuroDOT, the following dependencies are necessary to be installed:
-	1. Matlab 2020b and add-on toolboxes:(https://www.mathworks.com/products/new_products/release2020b.html)
+        1. Matlab 2020b and add-on toolboxes:(https://www.mathworks.com/products/new_products/release2020b.html)
 		1. Signal Processing Toolbox
 		2. Deep Learning Toolbox
 		3. Image Processing Toolbox
